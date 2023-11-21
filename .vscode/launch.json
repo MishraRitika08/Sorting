@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "inbuilt",
+            "request": "launch",
+            "mainClass": "inbuilt",
+            "projectName": "Sorting_b62e6f9d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
